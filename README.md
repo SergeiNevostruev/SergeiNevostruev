@@ -2,5 +2,5 @@
 
 Here are my works for friends and colleagues.
 
-![Alt-текст](https://www.codewars.com/users/SergeiNevostruev/badges/large)
+![CODEWARS](https://www.codewars.com/users/SergeiNevostruev/badges/large)
 
