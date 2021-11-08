@@ -2,4 +2,5 @@
 
 Here are my works for friends and colleagues.
 
-https://www.codewars.com/users/SergeiNevostruev/badges/micro
+![Alt-текст](https://www.codewars.com/users/SergeiNevostruev/badges/large)
+
